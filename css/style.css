@@ -1,0 +1,36 @@
+/*@import and @font-face, see google fonts  */
+
+#title{font: normal 100% 'Cochin', 'New Times Roman';
+  color: white;
+  letter-spacing: 1em;
+  line-height: 1em;
+  text-align: center;
+  background-color: rgb(194,189,177); /* 146,138,130, text 255,248,225*/
+}
+
+#title h3{
+  letter-spacing: .5em;
+}
+
+.navigation li a {
+  letter-spacing: .2em;
+  color: white;
+  text-decoration: none;
+}
+
+#box {
+  border: 3px rgb(194,189,177) solid;
+  padding: .25% 1.5%;
+  margin-top: 2.5%;
+}
+
+.definitions {font: normal 1.20em 'Cochin', 'New Times Roman';
+  color: rgb(194,189,177);
+}
+.definitions #bold {
+  font-weight: bold;
+  }
+.definitions #italics {
+  font-style: italic;
+}
+
